@@ -31,3 +31,5 @@ We're currently developing extended modules:
 Want to contribute or discuss these ideas?  
 [👉 Open an Issue](https://github.com/sstroell/dog-behavior-framework/issues/new) or visit the Discussion section.
 
+<a href="https://doi.org/10.5281/zenodo.15832978"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15832978.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.15796649"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15796649.svg" alt="DOI"></a>
